@@ -1,4 +1,4 @@
-![logo](https://github.com/suresh-kumar26/suresh-image/blob/main/s.3.webp)
+![logo](https://github.com/suresh-kumar26/suresh-kumar26/commit/87e3ca0823ae98731644f0aa4f44bf248a0bb2dd)
 <h1 align="center">Hi 👋, I'm Suresh Kumar</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
